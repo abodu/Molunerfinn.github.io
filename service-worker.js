@@ -1,0 +1,1 @@
+"use strict";window.navigator&&navigator.serviceWorker&&navigator.serviceWorker.getRegistrations().then(function(r){for(let e of r)e.unregister()});
